@@ -1,0 +1,27 @@
+{
+  "name": "fastset-dex-backend",
+  "version": "1.0.0",
+  "description": "Backend API untuk Fastset DEX - Swap dan Liquidity Management",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["fastset", "dex", "swap", "liquidity", "amm"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mysten/bcs": "^1.9.2",
+    "@noble/ed25519": "^3.0.0",
+    "@noble/hashes": "^1.3.3",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

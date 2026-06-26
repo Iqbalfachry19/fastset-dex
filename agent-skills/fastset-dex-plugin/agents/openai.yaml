@@ -1,0 +1,4 @@
+version: 1
+display_name: Fastset DEX Plugin
+short_description: Integrate agents with Fastset DEX backend operations through a stable CLI wrapper.
+default_prompt: Use the Fastset DEX CLI to generate test keypairs, fund accounts with faucet-drip, list operations, send JSON requests, and report success or errors for pool, swap, liquidity, account, certificate, and signed transaction flows.
