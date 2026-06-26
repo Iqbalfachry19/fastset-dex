@@ -428,9 +428,9 @@ Built with ❤️ using the Fastset Protocol.
 
 # 🔗 Resources
 
-* Fastset Website
-* Pi Squared Documentation
-* OmniSet Portal
+- [Fast Website](https://fast.xyz) 
+- [Fast Docs](https://docs.fast.xyz) 
+- [AllSet Portal](https://allset.fast.xyz)
 
 ---
 
