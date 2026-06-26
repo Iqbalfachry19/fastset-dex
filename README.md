@@ -93,7 +93,7 @@ fastset/
 
 ```bash
 git clone <repository-url>
-cd fastset
+cd fastset-dex
 ```
 
 ---
